@@ -20,6 +20,9 @@ gem 'responders', '~> 2.0'
 # Allow angular to submit forms
 gem 'angular_rails_csrf'
 
+# Jquery
+gem 'jquery-rails'
+
 # Use devise for authentication
 gem 'devise'
 
